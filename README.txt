@@ -1,4 +1,3 @@
-
 # Vespert0n.com / Cybermonks Portfolio
 
 * Personal Portfolio for Real CyberMonk
